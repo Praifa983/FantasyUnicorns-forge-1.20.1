@@ -1,0 +1,2 @@
+{ "parent": "minecraft:block/cross", "render_type": "minecraft:cutout",
+  "textures": { "cross": "fantasyunicorns:block/glow_flower" } }

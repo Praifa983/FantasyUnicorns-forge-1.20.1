@@ -1,0 +1,2 @@
+{ "parent": "minecraft:block/leaves", "render_type": "minecraft:cutout_mipped",
+  "textures": { "all": "fantasyunicorns:block/pastel_leaves" } }
